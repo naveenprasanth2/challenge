@@ -1,0 +1,20 @@
+Hi Sir/Mam,
+
+Hope all is well.
+
+I have done the assignment and pushed the source code into the path : challenge\src\test\java\ecsdigital\challenge\challenge.java
+
+Prerequisites:
+
+Plz run a .war file (Web Application Resource) as you have shared in the mail. 
+driver.get("http://localhost:3000/"); is used. So make sure you are running the WAR in correct port
+
+Run Instructions:
+
+Just run the .pom file by using the command (mvn test)
+
+Note:
+Page Object Model is not implemented in this code as we had only very limited functionalities to do.
+If POM is really needed , they I can do and push the code.
+
+Thanks in Advance.
